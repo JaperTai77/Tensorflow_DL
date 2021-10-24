@@ -1,3 +1,4 @@
 # Tensorflow_DL
+from tensorflow ZTM course
 
-tf2_1.pynb: Tensors/Regression
+1.tf2_1.pynb: Tensors/Regression
