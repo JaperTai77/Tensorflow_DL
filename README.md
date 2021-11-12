@@ -7,6 +7,6 @@ from tensorflow ZTM course
 4. tf2_4.ipynb: Transfer learning/ feature extraction (tensorflow hub)/ Tensor Board Callback/ imagedatagenerator,imagedatasetfromdirectory/ functional API (tf.keras.application, Augmentation using functional API)/ globalaveragepooling/ Model check point (save weight, initial epochs)/ fine tunning (trainable)
 5. tf2_5.ipynb: Build a model for food101/ Transfer learning(scaling up)/ save and load models to google drive/ prediction evaluation/ prediction evaluation(image)/ prediction evaluation(most wrong)/ prediction using user's image
 6. tf2_6.ipynb: Food101 milestone/ convert shape and data type/ create batches/ mixed precision/ early stopping and reduce learning rate
-7. tf2_7.ipynb:
+7. tf2_7.ipynb: NLP/ shuffle/ tokenization/ embedding/ tensorflow projector/ RNN (LSTM)
 
 * tf2_3.ipynb uses sequential API / tf2_4.ipynb uses functional API for computer vision
