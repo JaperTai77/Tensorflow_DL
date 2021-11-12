@@ -1,5 +1,5 @@
 # Tensorflow_DL
-### from tensorflow ZTM course
+### From tensorflow ZTM course
 
 1. tf2_1.ipynb: Tensors/ Regression/ Cast dtype/ tf.squeeze,tf.expand_dims
 2. tf2_2.ipynb: Classification(binary/multiclass)/ Tune learning rate/ Onehotencoding/ Visualize image/ Confusion matrix
