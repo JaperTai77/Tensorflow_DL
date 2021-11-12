@@ -10,3 +10,6 @@ from tensorflow ZTM course
 7. tf2_7.ipynb: NLP/ shuffle/ tokenization/ embedding/ tensorflow projector/ RNN (LSTM)
 
 * tf2_3.ipynb uses sequential API / tf2_4.ipynb uses functional API for computer vision
+
+# From Book
+a. LSTM_SentimentAnalysis.ipynb: NLP/ LSTM/ tokenization/ embedding/ text preprocessing(remove unused characters, lowercase)
