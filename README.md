@@ -1,5 +1,5 @@
 # Tensorflow_DL
-from tensorflow ZTM course
+### from tensorflow ZTM course
 
 1. tf2_1.ipynb: Tensors/ Regression/ Cast dtype/ tf.squeeze,tf.expand_dims
 2. tf2_2.ipynb: Classification(binary/multiclass)/ Tune learning rate/ Onehotencoding/ Visualize image/ Confusion matrix
@@ -11,5 +11,5 @@ from tensorflow ZTM course
 
 * tf2_3.ipynb uses sequential API / tf2_4.ipynb uses functional API for computer vision
 
-# From Book
+### From Book
 a. LSTM_SentimentAnalysis.ipynb: NLP/ LSTM/ tokenization/ embedding/ text preprocessing(remove unused characters, lowercase)
