@@ -9,8 +9,8 @@
 6. tf2_6.ipynb: Food101 milestone/ convert shape and data type/ create batches/ mixed precision/ early stopping and reduce learning rate/ 
 7. tf2_7.ipynb: NLP/ shuffle/ tokenization/ embedding/ tensorflow projector/ RNN (LSTM/GRU)/ Bidirectional RNN/ CNN for NLP/ Transfer learning for NLP/ prediction ising user's text/ computing time compare 
 8. tf2_8.ipynb: skimlit milestone/ process text file to dataframe/ Universal Sentence Emcoder/ character embedding/ combine char and token(Bidirectional)/ combine char, token, and position/ plot DL model/ Overfitting (label smoothing)/ view most wrong/ predict from user input
+9. tf2_9.ipynb: Time series/ MSE MAE MSPE/ Windowing data/ Simple model/ Evaluation plot/ LSTM/ Multivariates/ N-Beats/ tf.data api/ residual stacking/ Ensemble model/ interval plot/ Future forcasting
 
-- tf2_3.ipynb uses sequential API / tf2_4.ipynb uses functional API for computer vision
 
 ### From Book
 a. LSTM_SentimentAnalysis.ipynb: NLP/ LSTM/ tokenization/ embedding/ text preprocessing(remove unused characters, lowercase)
