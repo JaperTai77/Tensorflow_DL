@@ -13,5 +13,5 @@
 
 
 ### From Book
-a. LSTM_SentimentAnalysis.ipynb: NLP/ LSTM/ tokenization/ embedding/ text preprocessing(remove unused characters, lowercase) \n
+a. LSTM_SentimentAnalysis.ipynb: NLP/ LSTM/ tokenization/ embedding/ text preprocessing(remove unused characters, lowercase) <br />
 b. CV_feature_extraction.ipynb: Classification/ Computer Vision/ CV2/ image feature extractor using CV2
